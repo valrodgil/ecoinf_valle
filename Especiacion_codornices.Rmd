@@ -135,12 +135,12 @@ datos <- datos |>
 
 # Solo BB Eu5
 datos_filtradosBB <- datos |> 
-  filter(genotipo == "BB" & euring == 5)
+  filter(genotipo == "BB" & euring == 4)
 
 # Solo AB Eu5
 datos_filtradosAB <- datos |> 
-  filter(genotipo == "AB" & euring == 5)
-
+  filter(genotipo == "AB" & euring == 4)
+#Ahora prefiero los euring 4
 ```
 
 # Resultados
