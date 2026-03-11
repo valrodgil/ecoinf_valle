@@ -8,6 +8,7 @@ output:
       toc_float: true
       global_numbering: true
       fig_caption: true
+      theme: cerulean
 date: "2026-02-16"
 bibliography: Entregable.bib
 csl: APA7.csl
@@ -31,6 +32,11 @@ El **morfotipo sedentario se encuentra geográficamente restringido al límite s
 Específicamente **en las Islas Canarias y en Madeira**, no queda claro si existe realmente un aislamiento geográfico, ya que **algunas codornices del morfotipo migratorio procedentes del continente son desviadas por los vientos y terminan llegando a las islas más orientales**.
 
 ![*Figura 1.1: Dos machos de codorniz común (C. coturnix) con diferente grado de pigmentación en la garganta*](Imagenes/Codornices.jpg)
+
+La hipótesis principal de este proyecto plantea que las codornices con inversión
+cromosómica mostrarán diferencias morfológicas significativas según su origen, ya sean del
+continente o de los archipiélagos de Canarias y Madeira. Según las predicciones del síndrome
+insular y los resultados obtenido por otros estudios, se prevé de forma más concreta: (i) Las codornices procedentes de Madeira y Canarias tenderán a ser de mayor tamaño corporal que las del continente. (ii) Las codornices procedentes de Madeira y Canarias presentarán una colorimetría y un patrón de plumaje mucho más oscuro que las del continente. (iii) Las codornices procedentes de Madeira y Canarias mostrarán una disminución en los niveles de grasa corporal (relacionada con el impulso migrador). (iv) Las codornices de Madeira y Canarias presentarán un aparato de vuelo menos eficiente que las del continente.
 
 
 Para conocer más información sobre la especie, dejamos el siguiente enlace a una [ficha hecha por SEO](https://seo.org/ave/codorniz-comun/).
